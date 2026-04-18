@@ -354,13 +354,13 @@ const Services = () => {
       title: "Installation",
       desc: "Precision installation of modern lift systems, managed by our expert engineering team from initial design to final commissioning.",
       icon: <Settings className="mb-6" size={32} />,
-      image: "https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&q=80&w=800"
+      image: "https://images.unsplash.com/photo-1621905235277-f25426dc51f8?auto=format&fit=crop&q=80&w=800"
     },
     {
       title: "Repair & Maintenance",
       desc: "Specialized car top maintenance and technical repairs. Our engineers ensure every safety component is rigorously tested.",
       icon: <ShieldCheck className="mb-6" size={32} />,
-      image: "https://images.unsplash.com/photo-1621905235277-f25426dc51f8?auto=format&fit=crop&q=80&w=800"
+      image: "https://images.unsplash.com/photo-1581092162384-8987c1d64718?auto=format&fit=crop&q=80&w=800"
     },
     {
       title: "Modernization",
@@ -460,7 +460,7 @@ const Contact = () => {
               </div>
               <div>
                 <p className="text-xs font-bold text-slate-400 uppercase tracking-widest mb-1">Office</p>
-                <p className="text-xl font-bold text-london-blue">Canary Wharf, London, E14</p>
+                <p className="text-xl font-bold text-london-blue">153 St. Andrews Road, Northampton, NN2 6HL</p>
               </div>
             </div>
           </div>
@@ -507,7 +507,7 @@ const Footer = () => {
         <div className="col-span-2 space-y-8">
           <Logo />
           <p className="text-slate-500 max-sm font-medium leading-relaxed">
-            Leading the way in vertical transportation across London and the UK. Committed to safety, innovation, and engineering excellence.
+            Leading the way in vertical transportation across Northampton and the UK. Committed to safety, innovation, and engineering excellence.
           </p>
           <div className="flex gap-4">
             <a href="#" className="w-10 h-10 bg-gray-50 rounded-full flex items-center justify-center text-london-blue hover:bg-gold hover:text-white transition-all cursor-pointer border border-transparent hover:border-gold/30">
@@ -544,7 +544,7 @@ const Footer = () => {
       
       <div className="max-w-7xl mx-auto pt-12 border-t border-gray-100 flex flex-col md:flex-row justify-between items-center gap-6">
         <p className="text-slate-400 text-[10px] font-bold uppercase tracking-[0.2em]">
-          &copy; {new Date().getFullYear()} TGM ELEVATOR LIMITED. Reg No: 15758098. London, UK.
+          &copy; {new Date().getFullYear()} TGM ELEVATOR LIMITED. Reg No: 15758098. Northampton, UK.
         </p>
         <div className="flex items-center gap-2 text-slate-400">
           <ShieldCheck size={16} />
